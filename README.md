@@ -10,3 +10,6 @@
 
 
 ![Blinkit Analysis Dashboard_page-0001](https://github.com/user-attachments/assets/b67dd835-1a3b-4378-85cf-8faf2be5dcc0)
+
+### You can Access all this in the Blinkit Data Analysis Excel file uploaded above
+
