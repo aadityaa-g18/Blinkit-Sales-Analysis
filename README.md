@@ -1,4 +1,12 @@
 # Blinkit-Sales-Analysis
+## Project Description
+![Blinkit Analysis_page-0001](https://github.com/user-attachments/assets/a7627728-2331-4550-bb31-b78dc245ad03)
+
+![Blinkit Analysis_page-0002](https://github.com/user-attachments/assets/893b8f3b-1c05-4b2f-9bb9-af51b26c1252)
+
+![Blinkit Analysis_page-0003](https://github.com/user-attachments/assets/22f02b2a-5ffb-4c31-875e-7e3855c7af46)
+
+
 
 ## Data Analysis using pivot tables
 <img width="400" height="300" alt="Screenshot 2025-09-27 210903" src="https://github.com/user-attachments/assets/4d54a76c-06c2-4dbb-a33f-87e7e632a74d" />
