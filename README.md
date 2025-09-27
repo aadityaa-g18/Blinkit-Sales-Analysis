@@ -7,5 +7,6 @@
 <img width="1240" height="681" alt="Screenshot 2025-09-27 211045" src="https://github.com/user-attachments/assets/61013a7d-a97c-4c8e-87ba-2a61ae54794d" />
 
 ## Dasboard Using Excel 
-<img width="1325" height="311" alt="https://github.com/user-attachments/assets/db9d1704-08fe-4442-8acb-c4850a10e47d" />
 
+
+![Blinkit Analysis Dashboard_page-0001](https://github.com/user-attachments/assets/b67dd835-1a3b-4378-85cf-8faf2be5dcc0)
